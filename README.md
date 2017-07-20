@@ -1,2 +1,2 @@
-# designpatternsfordummies
-Design Patterns For Dummies
+# Design Patterns For Dummies
+Implementation for Desing patterns in Java SE 8
