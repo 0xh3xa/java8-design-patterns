@@ -19,3 +19,58 @@ Design patterns
 10. Singleton
 11. ChainingObjects
 12. Factory
+
+Design patterns types
+---------------------
+1. Structural
+2. Behavioral
+3. Creational
+4. J2EE
+```
+Design patterns/
+├── Structural
+|   ├── Composite
+|   ├── Adapter
+|   ├── Bridge
+|   ├── Filter
+|   ├── Facade
+|   ├── Proxy
+|   ├── Flayweight
+|   ├── Decorator
+|
+├── Behavioral
+|   ├── Strategry
+|   ├── Mediator
+|   ├── Iterator
+|   ├── Command
+|   ├── State
+|   ├── Strategy
+|
+├── Creational
+|   ├── Singleton
+|   ├── Builder
+|   ├── Factory
+|   ├── Abstract factory
+|   ├── Prototype
+|
+└── J2EE
+    ├── Dtos
+    ├── Business
+    ├── Presentation
+```
+
+Composite
+----------
+Structural pattern used where we need to treat a group of objects in similar way as a single object
+
+Adapter
+-------
+Structural pattern used as a bridge between two incompatible interfaces
+
+Bridge
+-------
+Structural pattern used to decouple an abstraction from its implementation so that the two can vary independently
+
+Filter
+-------
+structural pattern used when we want to do some pre-processing / post-processing with request or response of the application
